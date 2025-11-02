@@ -1,9 +1,9 @@
 # Coding_Active
-The Polyglot Programmer Project
+# The Polyglot Programmer Project
 
 An experiment in comparative analysis to build programming maturity. This repo documents a journey to solve the same problems in C, C++, Python, C#, and Rust.
 
-The Core Philosophy
+## The Core Philosophy
 
 We are often told to "master one language." But what if we mastered the logic behind them all?
 
@@ -23,7 +23,7 @@ Why Rust's "fearless concurrency" and safety model are revolutionary.
 
 This is a project-based learning experience, conducted in public, with a focus on comparative analysis.
 
-The Languages
+## The Languages
 
 C: The Foundation (Manual Memory, Pointers, Procedural)
 
@@ -35,27 +35,27 @@ C#: The Enterprise Standard (Modern OOP, Garbage Collection, . .NET)
 
 Rust: The Modern Systems Challenger (Memory Safety, Ownership, Concurrency)
 
-Repository Structure
+## Repository Structure
 
 Each project has a top-level directory. Inside, each language implementation gets its own sub-directory.
 
 01-CLI-Calculator:
-- c
-- cpp
-- python
-- csharp
-- rust
+*  c
+*  cpp
+*  python
+*  csharp
+*  rust
 
 02-Word-Count-Tool:
-- c
-- ...
+*  c
+* ...
 
-README.md
+* README.md
 
 
-The Curriculum
+## The Curriculum
 
-Level 1: The "Rosetta Stone"
+###Level 1: The "Rosetta Stone"
 
 Implement all projects in all five languages to build a foundation.
 
@@ -65,7 +65,7 @@ Implement all projects in all five languages to build a foundation.
 
 [ ] Project 1.3: CLI To-Do List (with JSON persistence)
 
-Level 2: Idiomatic Deep Dive
+### Level 2: Idiomatic Deep Dive
 
 Pick the 2-3 best languages for the job and compare their idiomatic strengths.
 
@@ -77,7 +77,7 @@ Pick the 2-3 best languages for the job and compare their idiomatic strengths.
 
 [ ] Project 2.4: Multi-threaded Search Tool (grep clone)
 
-Level 3: The Capstone
+### Level 3: The Capstone
 
 Build one large, complex system in the single most appropriate language.
 
@@ -87,7 +87,7 @@ Build one large, complex system in the single most appropriate language.
 
 [ ] (TDB) 2D Game Engine (from scratch)
 
-Follow The Journey
+## Follow The Journey
 
 This repository serves as the "proof of work." The "story" — my "a-ha!" moments, detailed comparisons, and weekly learnings — is documented on LinkedIn.
 
