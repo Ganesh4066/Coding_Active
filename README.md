@@ -55,37 +55,37 @@ Each project has a top-level directory. Inside, each language implementation get
 
 ## The Curriculum
 
-###Level 1: The "Rosetta Stone"
+### Level 1: The "Rosetta Stone"
 
 Implement all projects in all five languages to build a foundation.
 
-[ ] Project 1.1: CLI Calculator
+* Project 1.1: CLI Calculator
 
-[ ] Project 1.2: Word Count Tool (wc clone)
+* Project 1.2: Word Count Tool (wc clone)
 
-[ ] Project 1.3: CLI To-Do List (with JSON persistence)
+* Project 1.2: Word Count Tool (wc clone)Project 1.3: CLI To-Do List (with JSON persistence)
 
 ### Level 2: Idiomatic Deep Dive
 
 Pick the 2-3 best languages for the job and compare their idiomatic strengths.
 
-[ ] Project 2.1: Simple Web Scraper
+* Project 1.2: Word Count Tool (wc clone)Project 2.1: Simple Web Scraper
 
-[ ] Project 2.2: Simple REST API Backend
+* Project 2.2: Simple REST API Backend
 
-[ ] Project 2.3: Simple GUI Application
+* Project 2.3: Simple GUI Application
 
-[ ] Project 2.4: Multi-threaded Search Tool (grep clone)
+* Project 2.4: Multi-threaded Search Tool (grep clone)
 
 ### Level 3: The Capstone
 
 Build one large, complex system in the single most appropriate language.
 
-[ ] (TBD) Key-Value Store (Redis Clone)
+* (TBD) Key-Value Store (Redis Clone)
 
-[ ] (TBD) LISP Interpreter
+* (TBD) LISP Interpreter
 
-[ ] (TDB) 2D Game Engine (from scratch)
+* (TDB) 2D Game Engine (from scratch)
 
 ## Follow The Journey
 
